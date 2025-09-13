@@ -1,11 +1,11 @@
 {
-    "name": "ecommerce_app",
-    "short_name": "ecommerce_app",
+    "name": "Abdelrhman Portfolio",
+    "short_name": "Abdelrhman",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Abdelrhman Portfolio - Full Stack Developer & Mobile App Developer",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
